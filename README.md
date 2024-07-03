@@ -3,6 +3,21 @@
 ## Overview
 
 This project aims to recognize American Sign Language (ASL) gestures in real-time using Python, OpenCV, and MediaPipe. The system employs computer vision techniques to interpret hand gestures, facilitating communication through ASL.
+More details in the Documentation folder.
+
+## Screenshots
+
+![rrhr](https://github.com/Nithin1729S/Visual-Hand-Gesture-Recognition/assets/78496667/8a650e55-7959-43c7-b34e-522369364479)
+
+
+![tehth](https://github.com/Nithin1729S/Visual-Hand-Gesture-Recognition/assets/78496667/07305bb2-7546-4bf5-856a-4f29856091ca)
+
+![tht](https://github.com/Nithin1729S/Visual-Hand-Gesture-Recognition/assets/78496667/0727573d-c173-4997-9217-03ca7d6f38e8)
+
+
+![thte](https://github.com/Nithin1729S/Visual-Hand-Gesture-Recognition/assets/78496667/bc1f1255-a800-4d17-b8b8-06c63db5cf62)
+
+
 
 ## Dependencies
 
